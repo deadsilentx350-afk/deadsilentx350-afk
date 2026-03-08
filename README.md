@@ -1,16 +1,139 @@
-## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=220&section=header&text=DeadSilentX&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
 
-<!--
-**deadsilentx350-afk/deadsilentx350-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋 I'm Harsh</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Future+Engineer;Full+Stack+Developer;Linux+Enthusiast;Game+Developer;AI+Explorer;Building+Powerful+Tech"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=deadsilentx350-afk&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+# 🧠 About Me
+
+```diff
++ Name: Harsh
++ Alias: DeadSilentX
++ Role: Student & Developer
++ Interests: AI | Cybersecurity | Systems | Game Development
++ Mission: Build powerful technology and meaningful products
+```
+
+- 🎓 Class 11 PCM student  
+- 💻 Learning **Full Stack Development**  
+- 🐧 Linux enthusiast  
+- 🎮 Interested in **game development & systems programming**  
+- 🚀 Building projects and improving every day  
+
+---
+
+# ⚙️ Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+### ⚡ Frameworks
+
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=deadsilentx350-afk&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsilentx350-afk&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=deadsilentx350-afk&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deadsilentx350-afk&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deadsilentx350-afk&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Current Goals
+
+- ⚡ Improve full stack development skills  
+- 🧠 Learn AI & systems programming  
+- 🎮 Build interesting tech projects  
+- 🐧 Become a Linux power user  
+
+---
+
+<p align="center">
+
+⭐ **Code. Build. Learn. Repeat.**
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=footer"/>
+</p>
